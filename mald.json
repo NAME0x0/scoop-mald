@@ -1,12 +1,12 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Terminal-first PKM tool with local AI search. Markdown notes, semantic search, cited RAG chat.",
   "homepage": "https://github.com/NAME0x0/MALD",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/NAME0x0/MALD/releases/download/v0.5.4/mald-windows-x64.exe",
-      "hash": "fd3dbd0b9c258301f7f4777a401d451f13d4638a81085b1b4c3cf7480066247d",
+      "url": "https://github.com/NAME0x0/MALD/releases/download/v0.5.5/mald-windows-x64.exe",
+      "hash": "afd71efa5235dbf3ae2f6e94505b6fa1bd3c5d7f15d239a2b754f21d8aa38575",
       "bin": [["mald-windows-x64.exe", "mald.exe"]]
     }
   },
